@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HereWeMeetAgain</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Count and Random numbers</string>
+    <string name="second_fragment_label">Random number</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">0</string>
+    <string name="hello_second_fragment">R</string>
+    <string name="toast_button_text">toast</string>
+    <string name="random_button_text">random</string>
+    <string name="count_button_text">count</string>
+    <string name="toast_text">Hello Toast!</string>
+    <string name="random_textview">Here is a random number between 0 and %d</string>
+
+
+</resources>
